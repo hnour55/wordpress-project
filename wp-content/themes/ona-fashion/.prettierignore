@@ -1,0 +1,6 @@
+# Ignore .min
+*.min.css
+*.min.js
+
+# Ignore template parts
+*.html
